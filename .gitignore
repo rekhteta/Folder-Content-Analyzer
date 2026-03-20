@@ -1,0 +1,8 @@
+# Ignore compiled Python files
+__pycache__/
+# Ignore PyInstaller build folders and files
+build/
+dist/
+*.spec
+# Ignore execution log files
+*.log
